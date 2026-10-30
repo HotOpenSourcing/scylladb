@@ -28,7 +28,6 @@ tags
 !db/tags/
 testlog
 test/*/*.reject
-.vscode
 compile_commands.json
 .ccls-cache/
 .mypy_cache
@@ -39,3 +38,5 @@ nuke
 rust/**/target
 rust/**/Cargo.lock
 test/resource/wasm/rust/target
+config.bat
+node_modules
